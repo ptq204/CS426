@@ -1,7 +1,8 @@
 Main feature:  
 User can get the detailed information from the place by capturing an image or uploading available image from device.  
   
-Small features:
+Small features:  
+  
 a. Circular main menu:  
 We used the circular menu code found on Github for the main menu. The items consist of Start – select photos for recognizing the place, Change IP – changing the IP of the server wifi, About – information about us, Favorite – list of favorite places, Currency – currency converter, and OCR – as mentioned in section III. The PNG icons are collected from Flaticon with size 64x64.  
   
